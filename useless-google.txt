@@ -1,2 +1,7 @@
 google.*###searchform:style(rotate: 180deg !important)
 google.*###hplogo:style(rotate: 180deg !important)
+google.*###searchform:style(rotate: 180deg !important)
+google.*###hplogo:style(rotate: 180deg !important)
+google.*###center_col:style(rotate: 4deg !important)
+google.*###rhs:style(rotate: 270deg)
+google.*###rhs:style(translate: 300px)
