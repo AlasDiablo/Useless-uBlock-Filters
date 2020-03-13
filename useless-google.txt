@@ -1,0 +1,2 @@
+google.*###searchform:style(rotate: 180deg !important)
+google.*###hplogo:style(rotate: 180deg !important)
