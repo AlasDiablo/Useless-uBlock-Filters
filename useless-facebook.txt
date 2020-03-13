@@ -6,3 +6,11 @@ facebook.com###fbTimelineHeadline
 facebook.com###timeline_info_review_unit
 facebook.com###timeline_small_column
 facebook.com###timeline_top_section
+facebook.com##div:style(color: red !important)
+facebook.com##div:style(background-color: blue !important)
+facebook.com##a:style(background-color: green !important)
+facebook.com##a:style(color: red !important)
+facebook.com##span:style(color: red !important)
+facebook.com##span:style(background-color: blue !important)
+facebook.com##form:style(color: purple !important)
+facebook.com##form:style(background-color: purple !important)
