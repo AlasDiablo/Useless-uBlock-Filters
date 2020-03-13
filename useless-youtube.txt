@@ -1,0 +1,5 @@
+youtube.com###dismissable:style(rotate: 180deg !important)
+youtube.com###player:style(rotate: 6deg !important)
+youtube.com###movie_player:style(rotate: 4deg !important)
+youtube.com###items:style(rotate: 180deg !important)
+youtube.com###sections:style(transform: scaleX(-1) !important)
