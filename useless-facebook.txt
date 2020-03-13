@@ -1,0 +1,8 @@
+facebook.com###stream_pagelet
+facebook.com###pageLoginAnchor
+facebook.com###pagelet_pymk_timeline
+facebook.com###pagelet_timeline_profile_actions
+facebook.com###fbTimelineHeadline
+facebook.com###timeline_info_review_unit
+facebook.com###timeline_small_column
+facebook.com###timeline_top_section
